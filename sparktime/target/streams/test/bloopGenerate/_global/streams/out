@@ -1,0 +1,4 @@
+[debug] [sparktime-test] Classpath dependencies List()
+[debug] [sparktime-test] Dependencies from configurations List(sparktime)
+[debug] Bloop wrote the configuration of project 'sparktime-test' to '/Users/simone/UniBO/Lab/Scala/SparkTime/sparktime/.bloop/sparktime-test.json'
+[success] Generated .bloop/sparktime-test.json
